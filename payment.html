@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Payment</title>
+    <link rel="stylesheet" href="jeweStyle.css">
+</head>
+<body>
+    <div id="head4"><h1>Payment Process</h1></div>
+       <div id="input4">
+           <form id="form">
+               <input type="text" placeholder="Account No"/>
+               <input type="text" placeholder="Enter Valid Date">
+               <input type="password" placeholder="Enter Pin"/>
+
+           </form>
+       </div>
+       <div id="button4">
+           <button onclick="PlaceOrder()">Place Order</button>
+       </div>
+</body>
+</html>
+
+<script>
+ async function PlaceOrder(){
+     let promise =new Promise(function(resolve, reject){
+         setInterval(function(){
+            resolve("Your Order is successfully placed");
+         },3000);
+     }) ;
+     let res = await promise;
+     alert(res);
+ }
+ 
+
+
+</script>
