@@ -57,7 +57,8 @@ function appendJewellery(jl){
         butt.style.color = "#2A363B";
         butt.style.border= "0px";
         butt.style.borderRadius = "5px";
-        butt.style.fontWeight="700"
+        butt.style.fontWeight="700";
+        butt.style.cursor="pointer"
 
       divItems.append(name_j,price_j,image_j,butt);
       divItems.style.width ="50%";
