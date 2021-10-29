@@ -8,7 +8,11 @@
     <link rel="stylesheet" href="jeweStyle.css">
 </head>
 <body>
-    <div id="head4"><h1>Payment Process</h1></div>
+    <div id="head4">
+        <a href="./index.html">
+        <h1>Payment Process</h1>
+        </a>
+    </div>
        <div id="input4">
            <form id="form">
                <input type="text" placeholder="Account No"/>
@@ -32,6 +36,7 @@
      }) ;
      let res = await promise;
      alert(res);
+     window.location.href = "index.html"
  }
  
 
