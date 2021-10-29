@@ -2,6 +2,11 @@
 
 # 
 
+## For Demo
+#### Click here <a href="https://mrrupendra.github.io/MyDomProject/">Demo</a>
+
+#
+
 ##### It's an Online-Jewellery website which is used to add and purchase jewellery items.It is build by using HTML, CSS and JS. 
 
 ## Tech stacks used: 
