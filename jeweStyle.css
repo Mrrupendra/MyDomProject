@@ -36,11 +36,13 @@ body {
     width: 27%;
     height: 50px;
     margin: auto;
+    cursor: pointer;
 }
 #button2,#button4{
     width: 20%;
     height: 50px;
     margin: auto;
+    cursor: pointer;
 }
 #button2 button ,#button4 button{
     width: 100%;
@@ -54,6 +56,7 @@ body {
     color: #FECEAB;
     border-radius: 7px;
     border: 0px;
+    cursor: pointer;
 }
 #buttons button,#buttPro button{
     width: 49%;
@@ -67,6 +70,7 @@ body {
     color: #FECEAB;
     border-radius: 7px;
     border: 0px;
+    cursor: pointer;
 }
 
 #jewe {
@@ -102,6 +106,7 @@ img{
     background-color: #2A363B;
     color: #E84A5F;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 1px 0px;
 }
 
 #h1-1 h1 {
@@ -138,5 +143,10 @@ img{
     display: flex;
     flex-direction: column;
     margin: auto;
+}
+
+a {
+    text-decoration: none;
+    color: #E84A5F;
 }
 
