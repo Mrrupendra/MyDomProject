@@ -17,29 +17,29 @@
 
 ## INDEX PAGE :
 ##### The Index Page of Online-Jewellery-Shop website where you add jewellery items along with price , name and images.
-<img src="Images/im_1png" width="100%">
+<img src="Images/im_1.png" width="100%">
 
 #
 
 ## ADD PRODUCT PAGE :
 #####  This the page where you can see the jewellery items are added.
-<img src="Images/im_2png" width="100%">
+<img src="Images/im_2.png" width="100%">
 
 #
 
 ## CART PAGE:
 ##### This is the page where you can see the items or products are added to the cart and also you can apply promo code in this cart page. 
-<img src="Images/im_3png" width="100%">
+<img src="Images/im_3.png" width="100%">
 
 ## CHECKOUT PAGES :
 ##### Checkout page where you need to add your address details.
 
-<img src="Images/im_5png" width="100%">
+<img src="Images/im_5.png" width="100%">
 
 ## PAYMENT PAGE
 ##### In this page you need to fill the the payment details with pass code and need to click the payment button and then your item is successfully purchased and you redirect to the index page.
 
-<img src="Images/im_7png" width="100%">
+<img src="Images/im_7.png" width="100%">
 
 
 
